@@ -1,7 +1,11 @@
-##SafeJourney
-API key for google map api's is stored in app.json - fix
+# SafeJourney
 
-required - root file named .env containing API_KEY=..your google maps api key with directions enabled
+This is the front-end repo for the Safe Journey app. Built using react native.
+
+Safe Journey is a mobile app developed as part of a team during the Northcoders bootcamp. It allows you to share your location and journey plans with your friends, who can track you in real time. 
+
+
+required - root file named .env containing API_KEY='your google maps api key with directions enabled'
 
 You will need this data in app.json in root:
 {
